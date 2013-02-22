@@ -1,0 +1,10 @@
+{
+  "name": "reset",
+  "repo": "ianstormtaylor/reset",
+  "description": "Component: An opinionated CSS reset for web _apps_.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": [
+    "index.css"
+  ]
+}
