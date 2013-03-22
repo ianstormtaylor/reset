@@ -389,3 +389,11 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
+/**
+ * Almost always want images to be block.
+ */
+
+img { 
+  display: block;
+}
