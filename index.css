@@ -1,4 +1,3 @@
-
 /**
  * -----
  * Fixes
@@ -333,6 +332,14 @@ q:before,
 q:after {
   content: '';
   content: none;
+}
+
+/**
+ * Remove default cite styles.
+ */
+
+cite {
+  font-style: inherit;
 }
 
 /**
