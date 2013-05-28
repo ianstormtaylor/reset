@@ -253,12 +253,19 @@ textarea {
  */
 
 /**
+ * Remove default html styles.
+ */
+ 
+html {
+  line-height: 1;
+}
+
+/**
  * Remove default body styles.
  */
 
 body {
   margin: 0;
-  line-height: 1;
 }
 
 /**
