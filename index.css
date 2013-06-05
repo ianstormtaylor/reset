@@ -360,7 +360,15 @@ figure {
 }
 
 /**
- * Define consistent border, margin, and padding.
+ * Remove default form styles.
+ */
+
+form {
+  margin: 0;
+}
+
+/**
+ * Remove default fieldset styles.
  */
 
 fieldset {
