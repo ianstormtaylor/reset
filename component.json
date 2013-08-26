@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "license": "MIT",
   "dependencies": {
-    "necolas/normalize.css": "*"
+    "necolas/normalize.css": "v2.1.3"
   },
   "styles": [
     "index.css"
