@@ -8,7 +8,4 @@ components: component.json
 clean:
 	rm -fr build components
 
-test:
-	open test/index.html
-
-.PHONY: clean test
+.PHONY: clean

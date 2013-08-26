@@ -1,9 +1,12 @@
 {
   "name": "reset",
   "repo": "ianstormtaylor/reset",
-  "description": "Component: An opinionated CSS reset for web _apps_.",
-  "version": "0.0.1",
+  "description": "An opinionated CSS reset for web _apps_.",
+  "version": "0.1.0",
   "license": "MIT",
+  "dependencies": {
+    "necolas/normalize-css": "2.1.2"
+  },
   "styles": [
     "index.css"
   ]
