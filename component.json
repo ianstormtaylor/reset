@@ -1,7 +1,7 @@
 {
   "name": "reset",
   "repo": "ianstormtaylor/reset",
-  "description": "An opinionated CSS reset for web _apps_.",
+  "description": "An opinionated CSS reset for web apps.",
   "version": "0.1.0",
   "license": "MIT",
   "dependencies": {
