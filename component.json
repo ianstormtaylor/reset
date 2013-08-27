@@ -2,7 +2,7 @@
   "name": "reset",
   "repo": "ianstormtaylor/reset",
   "description": "An opinionated CSS reset for web apps.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "dependencies": {
     "necolas/normalize.css": "v2.1.3"

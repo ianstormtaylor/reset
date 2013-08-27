@@ -1,3 +1,7 @@
+0.1.1 - August 27, 2013
+-----------------------
+* remove duplicate rule on `body`
+
 0.1.0 - August 26, 2013
 -----------------------
 * added [`necolas/normalize-css`](https://github.com/necolas/normalize.css) as a dep
