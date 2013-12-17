@@ -1,3 +1,7 @@
+0.2.0 - December 6, 2013
+------------------------
+* remove margin on `pre`
+
 0.1.1 - August 27, 2013
 -----------------------
 * remove duplicate rule on `body`

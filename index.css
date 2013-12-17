@@ -108,3 +108,11 @@ fieldset {
   margin: 0;
   padding: 0;
 }
+
+/**
+ * Remove default pre styles.
+ */
+
+pre {
+  margin: 0;
+}
